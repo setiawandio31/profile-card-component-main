@@ -2,11 +2,10 @@ body {
    background-color: hsl(185, 75%, 39%);
    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
    background-repeat: no-repeat;
-   background-size: 61%;
-   background-position: -210px -520px, 800px 330px;
+   background-position: right 52vw bottom 30vh,left 50vw  top 48vh;
    font-family: 'Kumbh Sans', sans-serif;
    font-size: 18px;
-   padding: 10% 0;
+   padding: 150px 0;
 }
 
 .card {
