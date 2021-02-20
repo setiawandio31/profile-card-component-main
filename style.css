@@ -79,6 +79,7 @@ body {
 .card .info-flp .flp-value {
    font-weight: bold;
    color: hsl(229, 23%, 23%);
+   margin-bottom: 5px;
 }
 
 .card .info-flp .flp-name  {
