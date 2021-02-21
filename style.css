@@ -5,7 +5,7 @@ body {
    background-position: right 52vw bottom 30vh,left 50vw  top 48vh;
    font-family: 'Kumbh Sans', sans-serif;
    font-size: 18px;
-   padding: 150px 0;
+   padding: 150px 0 0;
 }
 
 .card {
@@ -85,4 +85,11 @@ body {
 .card .info-flp .flp-name  {
    font-size: 12px;
    color:hsl(0, 0%, 59%);
+}
+
+footer {
+   position: absolute;
+   bottom: 10px;
+   left: 0;
+   right: 0;
 }
